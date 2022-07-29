@@ -5,10 +5,14 @@
 </p>
 
 <p align="center"> 
-<a href= "#-Project">Project</a> .
-<a href= "#-Client">Client</a> .
-<a href= "#-Authors">Authors</a> .
-<a href= "#-Technology and Dependency used">Technology and Dependency used</a> .
+<a href= "#-Project">Project</a> &#160; |&#160;
+<a href= "#-Client">Client</a>  &#160; |&#160;
+<a href= "#-Authors">Authors</a>  &#160; |&#160;
+<a href= "#-Features Created">Databse</a>  &#160; |&#160;
+<a href= "#-Technology and Dependency used">Technology and Dependency used</a> &#160; |&#160;
+<a href= "#-How to use">How to use</a> &#160; |&#160;
+<a href= "#-Optional Features ">Optional Features </a> &#160; |&#160;
+<a href= "#-How to contribute">How to contribute</a>
 </p>
 
 🖥️ Project
@@ -70,7 +74,10 @@ Para clonar e executar este aplicativo, você precisará do [Git](https://git-sc
 
 #### Referencia de linha de comando:
 
-## Install API
+📚 How to use:
+=================
+
+### Install API
 
 ```bash
 # Clone this repository
@@ -84,13 +91,9 @@ $ npm run dev
 
 # running on port 3500
 ```
-## Banco de Dados
 
-A equipe também ficou responsável por criar o banco de dados;
-Gerando DER e script SQL que gera o banco.
-
-
-## Funcionalidades Opcionais
+🎌 Optional Features
+=================
 
 Dashboard
 Deverá ser criados um grupo de endpoints a partir da rota /dashboard para cada tipo de
@@ -101,4 +104,18 @@ informação presente nesta lista:
 - Média de atendimentos por psicólogos
 Ficando por exemplo: /dashboard/numero-paciente. Os dados a serem retornando
 podem ser apenas os números dos resultados em si!
-## API Reference
+
+🤔💭 How to contribute
+=================
+
+- Faça um Fork;
+ - Crie uma branch com seu recurso:  `git checkout -b my-feature`;
+ - Alterações do commit: `git commit -m 'feat: My new feature'`;
+ - Faça um push para seu branch: `git push origin my-feature`.
+
+Depois de mesclar sua solicitação de recebimento, você pode excluir a ramificação da sua.
+
+Made with 💚 by Giodarno Cassini 👋 [Get in touch](https://www.linkedin.com/in/giordano-cerutti-cassini-279ab0a0/)
+🧡 Joao Marcelo Dantas 👋 [Get in touch](https://www.linkedin.com/in/jo%C3%A3o-marcelo-dantas-3b519b18a/)
+💙Lucas Noronha 👋 [Get in touch](https://www.linkedin.com/in/lucas-gomes-noronha-canuto-999499218/)
+💛Victor Nery 👋 [Get in touch](https://www.linkedin.com/in/neryvictor/)
